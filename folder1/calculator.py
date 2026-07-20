@@ -1,2 +1,2 @@
 def calculate():
-  print("si")
+  print("ci")
